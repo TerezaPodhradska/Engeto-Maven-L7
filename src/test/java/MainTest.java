@@ -12,12 +12,12 @@ public class MainTest {
 
     }
 
-  /*   @Test
+    @Test
    public void testMultiplyFail(){
-        XMain main = new XMain();
+        Mainn main = new Mainn();
         main.multiply(3, 4);
         assertEquals(9,main.multiply(3, 4));
 
-    } */
+    }
 }
 
